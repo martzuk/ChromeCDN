@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+
+  "name": "ChromeCDN",
+  "description": "A Chrome plug to tell if a website is using a CDN",
+  "version": "1.0",
+
+  "browser_action": {
+    
+  },
+  "permissions": [
+    
+  ]
+}
